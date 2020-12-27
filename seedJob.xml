@@ -7,7 +7,7 @@
     <configVersion>2</configVersion>
     <userRemoteConfigs>
       <hudson.plugins.git.UserRemoteConfig>
-        <url>https://github.com/muhammad-abdurrahman/islamic-thing-finder.git</url>
+        <url>https://github.com/hyder-khan/jenkins-config-as-code.git</url>
       </hudson.plugins.git.UserRemoteConfig>
     </userRemoteConfigs>
     <branches>
